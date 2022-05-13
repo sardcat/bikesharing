@@ -18,4 +18,25 @@ Figure 2.) Trips by Weekday per Hour.
 
 ![](Resources/Fig2.png)
 
-* This heat map indicates that for Monday through Friday, peak bicycle utilization is between 6-9 AM and again at 4-7 PM. Weekends activity shows a rising spread starting around 10 AM, cresting around noon that then tapers off slowly to 7 PM.
+* This heat map indicates that for Monday through Friday, peak bicycle utilization is between 6-9 AM and again at 4-7 PM. Weekends activity shows a rising spread starting around 10 AM, cresting around noon that then tapers off slowly to 7 PM. It can also be inferred that overall usage steadily increases after Thursday leading in to the weekend and drops off on Monday.
+
+Figure 3.) Trips by Gender (Weekday per Hour).
+
+![](Resources/Fig3.png)
+
+* Parralleling Trips by Weekday per Hour, this heatmap breakdowns by Gender and highlights similar day by day usage. Of note is that Men make a heavy proportion of Weekday ridership.
+
+Figure 4.) User Trips by Gender by Weekday.
+
+![](Resources/Fig4.png)
+
+* Again, focusing on demographics but now seperating out Annual Subscribers reveals that bicycle usage is predominant with Male Annual Subscribers during the weekdays.
+
+## Summary
+
+An overall
+
+
+
+
+
