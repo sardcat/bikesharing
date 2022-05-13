@@ -8,3 +8,14 @@ Dashboard link to citibike visualization with [Tableau Public](https://public.ta
 Figure 1.) Composite Dashboard Highlighting Ride Duration, Membership and Demographics.
 
 ![](Resources/Fig1.png)
+
+* Checkout Time for Users displays the ride duration (Tripduration) as a function of bicycle count over a three hour window. The visual result is that most bikes are used for approximatly a 5-minute trip which then rapidly drops off before the 1-hour mark.
+* Customer Type highlights that over 80% of the bike ridership's are annual subscribers vs. short-term customers.
+* Gender Breakdown showcases the Gender breakdown of ridership. Women account for roughly 25% of the user base.
+* Checkout Time by Gender follows Checkout Time for Users in metrics displayed, seperated out by Gender. Of note is that dropoff slope for Women riders is not as steep for Men after the 5-minute peak.
+
+Figure 2.) Trips by Weekday per Hour.
+
+![](Resources/Fig2.png)
+
+* This heat map indicates that for Monday through Friday, peak bicycle utilization is between 6-9 AM and again at 4-7 PM. Weekends activity shows a rising spread starting around 10 AM, cresting around noon that then tapers off slowly to 7 PM.
